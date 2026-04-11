@@ -31,11 +31,25 @@
 
 #### Workshops
 
+- [Build a Pin Extractor](./02%20Loops%20and%20Sequences/Workshop/pin-extractor.py)
+
 #### Labs
+
+- [Build a Number Pattern Generator](./02%20Loops%20and%20Sequences/Lab/number-pattern-generator.py)
+
+#### Review
+
+- [Loop and Sequences Review](https://www.freecodecamp.org/learn/python-v9/review-loops-and-sequences/review-loops-and-sequences)
 
 ### Dictionaries and Sets
 
 #### Workshops
+
+- [Build a Medical Data Validator](./03%20Dictionaries%20and%20Sets/Workshop/medical-data-validator.py)
+
+#### Review
+
+- [Dictionaries and Sets Review](https://www.freecodecamp.org/learn/python-v9/review-dictionaries-and-sets/review-dictionaries-and-sets)
 
 ### Error Handling
 
@@ -80,3 +94,9 @@
 #### Labs
 
 ### Certification Projects
+
+- [Build a User Configuration Manager](./Certification%20Projects/user-configuration-manager.py)
+
+### Review
+
+- [Python Review](https://www.freecodecamp.org/learn/python-v9/review-python/review-python)
