@@ -21,6 +21,11 @@
 
 - [Build a Travel Weather Planner](./01%20Python%20Basics/Labs/travel-weather-planner.py)
 - [Build an Apply Discount Function](./01%20Python%20Basics/Labs/apply-discount-function.py)
+- [Build an RPG Character](./01%20Python%20Basics/Labs/rpg-character.py)
+
+#### Review
+
+- [Python Basics Review](https://www.freecodecamp.org/learn/python-v9/review-python-basics/review-python-basics)
 
 ### Loop and Sequences
 
@@ -31,8 +36,6 @@
 ### Dictionaries and Sets
 
 #### Workshops
-
-#### Labs
 
 ### Error Handling
 
