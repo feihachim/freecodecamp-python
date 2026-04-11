@@ -15,10 +15,12 @@
 - [Build an Employee Profile Generator](./01%20Python%20Basics/Workshops/employee-profile-generator.py)
 - [Build a Bill Splitter](./01%20Python%20Basics/Workshops/bill-splitter.py)
 - [Build a Movie Ticket Booking Calculator](./01%20Python%20Basics/Workshops/movie-ticket-booking-calculator.py)
+- [Build a Caesar Cipher](./01%20Python%20Basics/Workshops/caesar-cipher.py)
 
 #### Labs
 
 - [Build a Travel Weather Planner](./01%20Python%20Basics/Labs/travel-weather-planner.py)
+- [Build an Apply Discount Function](./01%20Python%20Basics/Labs/apply-discount-function.py)
 
 ### Loop and Sequences
 
