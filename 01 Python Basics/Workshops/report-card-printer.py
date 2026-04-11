@@ -1,6 +1,5 @@
 """
-First Workshop where we discover the various types of variables
-and work with them
+In this workshop, you will practice Python data types by building a simple report card printer.
 """
 
 name = "Alice"

@@ -1,5 +1,6 @@
 """
-Second Workshop where we learn to manipulate strings
+Strings are sequences of characters used to store text data.
+As you might recall from previous lessons, you can create a string by enclosing text inside either single (') or double (") quotes.
 """
 
 first_name = "John"

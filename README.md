@@ -14,8 +14,11 @@
 - [Build a Report Card Printer](./01%20Python%20Basics/Workshops/report-card-printer.py)
 - [Build an Employee Profile Generator](./01%20Python%20Basics/Workshops/employee-profile-generator.py)
 - [Build a Bill Splitter](./01%20Python%20Basics/Workshops/bill-splitter.py)
+- [Build a Movie Ticket Booking Calculator](./01%20Python%20Basics/Workshops/movie-ticket-booking-calculator.py)
 
 #### Labs
+
+- [Build a Travel Weather Planner](./01%20Python%20Basics/Labs/travel-weather-planner.py)
 
 ### Loop and Sequences
 
