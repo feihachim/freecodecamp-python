@@ -53,9 +53,9 @@
 
 ### Error Handling
 
-#### Workshops
-
 #### Labs
+
+- [Debug an ISBN Validator](./04%20Error%20Handling/lab/isbn-validator.py)
 
 ### Classes and Objects
 
