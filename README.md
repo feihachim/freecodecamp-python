@@ -57,11 +57,24 @@
 
 - [Debug an ISBN Validator](./04%20Error%20Handling/lab/isbn-validator.py)
 
+#### Review
+
+- [Error Handling Review](https://www.freecodecamp.org/learn/python-v9/review-error-handling/review-error-handling)
+
 ### Classes and Objects
 
 #### Workshops
 
+- [Build a Musical Instrument Inventory](./05%20Classes%20and%20Objects/workshops/musical-instrument-inventory.py)
+- [Build an Email Simulator](./05%20Classes%20and%20Objects/workshops/email-simulator.py)
+
 #### Labs
+
+- [Build a Planet Class](./05%20Classes%20and%20Objects/lab/planet-class.py)
+
+#### Review
+
+- [Classes and Objects Review](https://www.freecodecamp.org/learn/python-v9/review-classes-and-objects/review-classes-and-objects)
 
 ### Object-Oriented Programming (OOP)
 
@@ -96,6 +109,7 @@
 ### Certification Projects
 
 - [Build a User Configuration Manager](./Certification%20Projects/user-configuration-manager.py)
+- [Build a Budget App](./Certification%20Projects/budget-app.py)
 
 ### Review
 
