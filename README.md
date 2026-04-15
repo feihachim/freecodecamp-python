@@ -80,7 +80,18 @@
 
 #### Workshops
 
+- [Build a Salary Tracker](./06%20Object-Oriented%20Programming/workshops/salary-tracker.py)
+- [Build a Media Catalogue](./06%20Object-Oriented%20Programming/workshops/media-catalogue.py)
+- [Build a Discount Calculator](./06%20Object-Oriented%20Programming/workshops/discount-calculator.py)
+
 #### Labs
+
+- [Build a Game Character Stats Tracker](./06%20Object-Oriented%20Programming/labs/game-character-stats-tracker.py)
+- [Build a Player Interface](./06%20Object-Oriented%20Programming/labs/player-interface.py)
+
+#### Review
+
+- [Object Oriented Programming Review](https://www.freecodecamp.org/learn/python-v9/review-object-oriented-programming/review-object-oriented-programming)
 
 ### Linear Data Structures
 
@@ -110,6 +121,7 @@
 
 - [Build a User Configuration Manager](./Certification%20Projects/user-configuration-manager.py)
 - [Build a Budget App](./Certification%20Projects/budget-app.py)
+- [Build a Polygon Area Calculator](./Certification%20Projects/polygon-area-calculator.py)
 
 ### Review
 
