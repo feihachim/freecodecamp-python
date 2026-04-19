@@ -107,19 +107,46 @@
 
 #### Workshops
 
+- [Implement the Binary Search Algorithm](./08%20Algorithms/workshops/binary-search.py)
+- [Implement the Merge Sort Algorithm](./08%20Algorithms/workshops/merge-sort.py)
+
 #### Labs
+
+- [Implement the Bisection Method](./08%20Algorithms/labs/bisection-method.py)
+- [Implement the Quicksort Algorithm](./08%20Algorithms/labs/quicksort.py)
+- [Implement the Selection Sort Algorithm](./08%20Algorithms/labs/selection-sort.py)
+- [Implement the Luhn Algorithm](./08%20Algorithms/labs/luhn.py)
+
+#### Review
+
+- [Searching and Sorting Algorithms Review](https://www.freecodecamp.org/learn/python-v9/review-searching-and-sorting-algorithms/review-searching-and-sorting-algorithms)
 
 ### Graphs and Trees
 
 #### Workshops
 
+- [Implement the Shortest Path Algorithm](./09%20Graphs%20and%20Trees/workshops/shortest-path.py)
+- [Implement the Breadth-First Search Algorithm](./09%20Graphs%20and%20Trees/workshops/bread-first-search.py)
+
 #### Labs
+
+- [Build an Adjacency List to Matrix Converter](./09%20Graphs%20and%20Trees/labs/adjacency-list-to-matrix-converter.py)
+- [Implement the Depth-First Search Algorithm](./09%20Graphs%20and%20Trees/labs/depth-first-search.py)
+- [Implement the N-Queens Problem](./09%20Graphs%20and%20Trees/labs/n-queens-problem.py)
+
+#### Review
+
+- [Graphs and Trees Review](https://www.freecodecamp.org/learn/python-v9/review-graphs-and-trees/review-graph-and-trees)
 
 ### Dynamic Programming
 
-#### Workshops
+#### Lab
 
-#### Labs
+- [Build an Nth Fibonacci Number Calculator](./10%20Dynamic%20Programming/lab/nth-fibonacci-number-calculator.py)
+
+#### Review
+
+- [Dynamic Programming Review](https://www.freecodecamp.org/learn/python-v9/review-dynamic-programming/review-dynamic-programming)
 
 ### Certification Projects
 
@@ -127,6 +154,7 @@
 - [Build a Budget App](./Certification%20Projects/budget-app.py)
 - [Build a Polygon Area Calculator](./Certification%20Projects/polygon-area-calculator.py)
 - [Build a Hash Table](./Certification%20Projects/hash-table.py)
+- [Implement the Tower of Hanoi Algorithm](./Certification%20Projects/tower-of-hanoi-algorithm.py)
 
 ### Review
 
