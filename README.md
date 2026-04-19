@@ -95,9 +95,13 @@
 
 ### Linear Data Structures
 
-#### Workshops
+#### Workshop
 
-#### Labs
+- [Build a Linked List](./07%20Linear%20Data%20Structures/workshop/linked-list.py)
+
+#### Review
+
+- [Data Structures Review](https://www.freecodecamp.org/learn/python-v9/review-data-structures/review-data-structures)
 
 ### Algorithms
 
@@ -122,6 +126,7 @@
 - [Build a User Configuration Manager](./Certification%20Projects/user-configuration-manager.py)
 - [Build a Budget App](./Certification%20Projects/budget-app.py)
 - [Build a Polygon Area Calculator](./Certification%20Projects/polygon-area-calculator.py)
+- [Build a Hash Table](./Certification%20Projects/hash-table.py)
 
 ### Review
 
