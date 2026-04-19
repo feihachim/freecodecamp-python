@@ -16,36 +16,33 @@ def square_root_bisection(
         raise ValueError(
             "Square root of negative number is not defined in real numbers"
         )
-    if square_target == 1:
+    if square_target == 1 or square_target == 0:
         root = 1
-        print(f"The square root of {square_target} is 1")
+        print(f"The square root of {square_target} is {square_target}")
+        return square_target
 
-    elif square_target == 0:
-        root = 0
-        print(f"The square root of {square_target} is 0")
-    else:
-        low = 0
-        # Ensures the interval covers the root for N < 1 and N > 1
-        high = max(1, square_target)
-        root = None
-        i = 0
-        while i < max_iterations and root is None:
-            mid = (low + high) / 2
-            square_mid = mid**2
+    low = 0
+    # Ensures the interval covers the root for N < 1 and N > 1
+    high = max(1, square_target)
+    root = None
+    i = 0
+    while i < max_iterations and root is None:
+        mid = (low + high) / 2
+        square_mid = mid**2
 
-            if abs(high - low) < tolerance:
-                root = mid
+        if abs(high - low) < tolerance:
+            root = mid
 
-            elif square_mid < square_target:
-                low = mid
-            else:
-                high = mid
-            i += 1
-
-        if i == max_iterations:
-            print(f"Failed to converge within {max_iterations} iterations")
+        elif square_mid < square_target:
+            low = mid
         else:
-            print(f"The square root of {square_target} is approximately {root}")
+            high = mid
+        i += 1
+
+    if i == max_iterations:
+        print(f"Failed to converge within {max_iterations} iterations")
+    else:
+        print(f"The square root of {square_target} is approximately {root}")
     return root
 
 
