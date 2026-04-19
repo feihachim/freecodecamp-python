@@ -11,7 +11,7 @@ The space complexity will be constant O(1) because the sorting is done in place 
 """
 
 
-def selection_sort(items):
+def selection_sort(items: list[int]) -> list[int]:
     nb_items = len(items)
     for i in range(nb_items - 1):
         min_list = items[i]
