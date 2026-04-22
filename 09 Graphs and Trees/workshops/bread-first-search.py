@@ -1,7 +1,4 @@
 """
-In this workshop, you will implement the shortest path algorithm.
-You will write a Python function that computes the shortest path between the nodes in a graph, and also returns the path taken.
-
-For example, given a graph where cities are connected by roads with different distances, the algorithm will find the shortest route from one city to another.
-If you want to travel from City A to City D, the algorithm might find that going A ⇨ B ⇨ C ⇨ D (total: 15km) is shorter than going directly A ⇨ D (20km).
+In this workshop, you'll implement a function that generates all valid combinations of parentheses using a breadth-first search (BFS) approach.
+For example, the valid combinations of two pairs of parentheses are (()) and ()().
 """
